@@ -39,6 +39,7 @@ footer{
     color: #ffffff;
     text-align: center;
     margin-top: 37px;
+    font-size: 20px;
 }
 
 .italic{
@@ -51,4 +52,8 @@ footer{
 
 .blue{
     color: #0000ff;
+}
+
+main p{
+    font-size: 18px;
 }
