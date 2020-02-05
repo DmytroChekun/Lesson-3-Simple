@@ -1,0 +1,54 @@
+body{
+    width: 786px;
+    margin: auto;
+}
+
+header{
+    margin-top: 29px;
+    height: 37px;
+    background-color: #a52a2a;
+}
+
+h1{
+    color: #ffffff;
+    font-size: 28px;
+    text-align: center;
+    padding-top: 4px;
+}
+
+.img-sunset{
+    width: 786px;
+    margin-top: 22px;
+}
+
+.p1{
+    margin-top: 26px;
+}
+
+section img{
+    border: 3px dashed #000000;
+}
+
+section{
+    text-align: center;
+    margin: 18px 0 21px 0;
+}
+
+footer{
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 37px;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.blue{
+    color: #0000ff;
+}
